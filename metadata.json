@@ -1,0 +1,6 @@
+{
+  "name": "LabelLens - Legal Metrology Compliance Engine",
+  "description": "AI compliance-detection engine checking packaged product labels against India's Legal Metrology (Packaged Commodities) Rules, 2011.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
