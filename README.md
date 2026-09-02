@@ -7,7 +7,7 @@ AI-assisted compliance scanner for India's Legal Metrology (Packaged Commodities
 1. Copy .env.example to .env and add your Gemini API key.
 2. Install dependencies: npm install
 3. Run the app: npm run dev
-4. Open http://localhost:3000
+4. Open https://labellens-h0km.onrender.com
 
 ## Architecture
 
